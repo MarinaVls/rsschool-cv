@@ -24,11 +24,9 @@ let a = +prompt('a'),
     b = +prompt('b'),
     c = +prompt('c');
 
-
 function calcNumber(a, b, c) {
     return ((a-b) / c);
 }
-
 
 let result = calcNumber(a, b, c);
 alert(result); 
