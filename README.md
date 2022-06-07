@@ -1,1 +1,1 @@
-# https://MarinaVls.github.io/rsschool-cv/cv
+# https://MarinaVls.github.io/rsschool-cv/
